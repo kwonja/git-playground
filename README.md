@@ -1,1 +1,1 @@
-# git-playground
+어멘드 실습하기
