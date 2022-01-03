@@ -1,1 +1,3 @@
-amend 실습하기
+#git playground
+
+깃 재미있다
