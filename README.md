@@ -1,5 +1,5 @@
 #git playground
 
-Let`s git it
+Let`s git together!
 
 pull!
